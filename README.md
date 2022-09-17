@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://tenor.com/3o2m.gif" width="100"/>
+  <img src="https://tenor.com/view/sultan-alrefaei-programmer-office-gif-13165216" width="100"/>
 </div>
 
 <div id="badges" align="center">
