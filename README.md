@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" height=250 width="350"/>
+  <img src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" height=200 width="300"/>
 </div>
 
 
