@@ -2,6 +2,8 @@
   <img src="https://tenor.com/view/sultan-alrefaei-programmer-office-gif-13165216" width="100"/>
 </div>
 
+<div class="tenor-gif-embed" data-postid="13165216" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/sultan-alrefaei-programmer-office-gif-13165216">Sultan Alrefaei Programmer GIF</a>from <a href="https://tenor.com/search/sultan+alrefaei-gifs">Sultan Alrefaei GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ken-zk-fang/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
