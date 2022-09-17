@@ -23,10 +23,10 @@
 ---
 
 ### :man_technologist: About Me :
-I m a first year master stydebt studying Electrical and Computer Engineer in University of California San Diego :trident:
+My name is Ken(Zhongkang). I m a first year master stydebt studying Electrical and Computer Engineer in University of California San Diego :trident:
 
 - :telescope: I’m looking for a Software/Hardware Summer2023 internship.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ken-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ken-zk-fang/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ken Fang-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ken-zk-fang/)
 
 
 
