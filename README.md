@@ -23,4 +23,4 @@
 ---
 
 ### :man_technologist: About Me :
-I am studying Electrical and Computer Engineer in University of California San Diego
+I am studying Electrical and Computer Engineer in University of California San Diego :trident:
